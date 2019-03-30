@@ -1,0 +1,10 @@
+global-styling:
+   css:
+    theme:
+      css/style.css: {}
+      includes/bootstrap/css/bootstrap.css: {}
+    js:
+      js/responsive-nav.js: {}
+      js/fixed-responsive-nav.js: {}  
+   dependencies:
+    - core/jquery   

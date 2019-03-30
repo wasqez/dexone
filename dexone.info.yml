@@ -1,0 +1,15 @@
+name: Dexone
+type: theme
+base theme: classy
+description: 'A flexible layout.'
+package: Core
+core: 8.x
+
+libraries:
+  - dexone/global-styling
+
+regions:
+  headline: Headline
+  content: Content
+  sidebar: Sidebar
+  footer: Footer
