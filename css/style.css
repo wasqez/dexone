@@ -301,3 +301,11 @@ img.article-img {
 
 }
 
+nav.breadcrumb {
+    background: none;
+}
+
+nav.breadcrumb ol a {
+    color: white;
+    text-transform: uppercase;
+}
